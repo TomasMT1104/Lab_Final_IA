@@ -1,2 +1,78 @@
-# Lab_Final_IA
-Laboratorio final de la clase profundización I de Inteligencia Artificial.
+# Laboratorio Final — Profundización I en Inteligencia Artificial  
+**Universidad de Manizales — Ingeniería de Sistemas y Telecomunicaciones**  
+**Estudiante:** Tomás Marín Toro  
+**Curso:** Profundización I — Inteligencia Artificial  
+**Docente:** PhD. Carlos Betancourt Correa  
+
+---
+
+# Sobre este Repositorio
+
+Este repositorio contiene **ÚNICAMENTE la parte del laboratorio que me corresponde dentro del trabajo grupal**, específicamente las actividades:
+
+✔ **Actividad 1 — Tabla comparativa de plataformas IA**  
+✔ **Actividad 5 — Kaggle (EDA + notebook)**  
+✔ **Actividad 9 — Modelscope (comparación con HuggingFace)**  
+✔ **Actividad 13 — Replit AI / Ghostwriter (microproyecto)**  
+
+Cada una de estas actividades incluye análisis técnico, documentación profesional y evidencias según los requisitos del laboratorio final.
+
+---
+
+# Estructura de Este Repositorio (Mi Parte)
+
+Lab_Final_IA
+├── README.md ← Actividad 1 (tabla comparativa)
+├── kaggle/ ← Actividad 5
+├── modelscope/ ← Actividad 9
+├── replit/ ← Actividad 13
+├── capturas/ ← Evidencias individuales
+└── informes/ ← PDF, reportes y análisis
+
+
+---
+
+# 📘 **Actividad 1 — Tabla Comparativa de Plataformas IA**
+
+A continuación se presenta la tabla comparativa profesional solicitada en el criterio #1 de la rúbrica.  
+La tabla analiza las plataformas globales utilizadas en el laboratorio, destacando su descripción técnica, ventajas, limitaciones y escenarios de uso.
+
+---
+
+# 🧠 Tabla Comparativa de Plataformas IA — Laboratorio Final
+
+| Plataforma | Descripción Técnica | Ventajas | Desventajas | Escenarios de Uso | Complejidad | Recomendación |
+|-----------|----------------------|----------|--------------|--------------------|--------------|----------------|
+| **Hugging Face** | Ecosistema open-source más grande de modelos IA (LLM, visión, audio, embeddings). Incluye Transformers, Datasets y Spaces para demos. | Miles de modelos, comunidad grande, Spaces públicos. | Requiere GPU para modelos grandes. | Chatbots, clasificadores, embeddings, demos. | Media | Úsala para proyectos IA open-source y demos técnicas. |
+| **Google NotebookLM** | Asistente IA que trabaja únicamente con documentos cargados. | Respuestas basadas en tus fuentes. | Limitado a documentos cargados. | Resúmenes, análisis de papers, estudio técnico. | Baja | Ideal para investigación y análisis académicos. |
+| **Google AI Studio** | Plataforma para crear prompts y agentes con modelos Gemini. Ajuste de temperatura, top-k, etc. | Excelente para ingeniería de prompts. | Funciones avanzadas requieren Cloud. | Agentes, análisis de prompts, prototipos. | Media | Úsala para diseñar prompts técnicos/creativos. |
+| **Kaggle** | Plataforma líder en datasets, notebooks y EDA con GPU gratuita. | Muchísimos datasets, GPU gratis, comunidad. | Límites de tiempo en GPU. | EDA, ML rápido, visualizaciones. | Media-Alta | Perfecta para análisis estadístico y modelos rápidos. |
+| **Perplexity AI** | Buscador con IA y citación verificable. | Fuentes reales, verificación académica. | A veces menos profundo que Scholar. | Estado del arte, búsquedas técnicas. | Baja | Úsala para investigación con evidencia. |
+| **Papers With Code** | Conecta papers con implementación oficial. | Permite replicar experimentos reales. | No todos los papers tienen repos actualizados. | Benchmarking, investigación avanzada. | Alta | Úsala para replicar papers y analizar modelos. |
+| **Replicate** | Ejecuta modelos generativos vía API sin GPU propia. | API simple, modelos variados. | Algunos modelos cuestan; latencia. | Imagen, video, voz, prototipos. | Baja-Media | Excelente para prototipos generativos rápidos. |
+| **Modelscope (Alibaba)** | Alternativa optimizada en visión, voz y NLP. | Modelos ligeros y eficientes. | Comunidad menor que HF. | Visión, voz, NLP optimizado. | Media | Úsala para comparar rendimiento con HuggingFace. |
+| **LLaMaIndex** | Framework especializado para RAG y bases de conocimiento. | Muy potente para chat con documentos. | Requiere conocer pipelines de RAG. | Asistentes privados, chat con PDFs. | Media-Alta | Ideal para sistemas con grounding real. |
+| **GitHub Copilot** | Asistente para programar integrado en VS Code. | Genera funciones, explica, refactoriza. | Puede generar errores si no se revisa. | Desarrollo de software, documentación. | Baja-Media | Úsala para acelerar codificación. |
+| **Codeium** | Asistente gratuito para completar y explicar código. | Gratis, muy bueno explicando. | Menos preciso en proyectos grandes. | Refactorización, funciones rápidas. | Baja | Excelente opción gratuita de asistencia. |
+| **Replit AI / Ghostwriter** | IDE en la nube que genera proyectos completos con IA. | Crea apps instantáneas. | A veces genera estructura desordenada. | Prototipos, APIs rápidas. | Baja-Media | Úsala para crear microproyectos en minutos. |
+| **Claude Code** | IA que actúa como ingeniero colaborador (documenta, revisa repos, genera módulos). | Excelente para repos grandes. | No ejecuta código dentro del entorno. | Documentación, análisis de repos, mejoras. | Media-Alta | Úsala para proyectos complejos y documentación. |
+| **Devin AI (conceptual)** | Primer prototipo de “ingeniero autónomo” capaz de ejecutar pipelines y debugging. | Visión del futuro de la IA. | No listo para producción. | Análisis ético y de tendencias. | Alta | Úsalo solo para análisis conceptual. |
+
+---
+
+# 🧾 Actividades Incluidas en Este Repositorio (Mi Parte)
+
+| Actividad | Plataforma | Estado |
+|----------|------------|--------|
+| **1** | Tabla comparativa | ✔ Completada |
+| **5** | Kaggle — EDA + notebook | ⏳ Próxima a realizar |
+| **9** | Modelscope — Comparativa | ⏳ Próxima a realizar |
+| **13** | Replit — Microproyecto | ⏳ Próxima a realizar |
+
+---
+
+# 📝 Créditos  
+**Estudiante responsable de este repositorio:** Tomás Marín Toro  
+**Curso:** Profundización I — Inteligencia Artificial  
+**Universidad de Manizales**
+
