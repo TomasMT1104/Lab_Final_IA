@@ -8,14 +8,60 @@
 
 # Sobre este Repositorio
 
-Este repositorio contiene **ÚNICAMENTE la parte del laboratorio que me corresponde dentro del trabajo grupal**, específicamente las actividades:
+Este repositorio contiene **todas las actividades desarrolladas en el Laboratorio Final de Profundización I – Inteligencia Artificial**, siguiendo los lineamientos del documento oficial.
 
-✔ **Actividad 1 — Tabla comparativa de plataformas IA**  
-✔ **Actividad 5 — Kaggle (EDA + notebook)**  
-✔ **Actividad 9 — Modelscope (comparación con HuggingFace)**  
-✔ **Actividad 13 — Replit AI / Ghostwriter (microproyecto)**  
+Aquí se incluyen **todas las actividades del Paso 2 (Actividades detalladas por plataforma)**, además de los entregables requeridos como notebooks, análisis técnicos, comparaciones, prototipos funcionales y evidencias.
 
-Cada una de estas actividades incluye análisis técnico, documentación profesional y evidencias según los requisitos del laboratorio final.
+Las actividades cubren las siguientes plataformas y herramientas:
+
+### 🧩 Actividades del Laboratorio  
+✔ **2.1 — Hugging Face (NLP, Visión, Audio + Space público)**  
+✔ **2.2 — NotebookLM (análisis de documentos)**  
+✔ **2.3 — Google AI Studio (prompts técnicos y creativos)**  
+✔ **2.4 — Kaggle (EDA + notebook publicado)**  
+✔ **2.5 — Perplexity AI (consulta avanzada + validación de fuentes)**  
+✔ **2.6 — Papers With Code (reproducción de experimento)**  
+✔ **2.7 — Replicate (modelos generativos + consumo por API)**  
+✔ **2.8 — Modelscope (modelo alternativo + comparación)**  
+✔ **2.9 — LLaMaIndex (pipeline RAG + base de conocimiento)**  
+✔ **2.10 — GitHub Copilot (módulo generado + comparación)**  
+✔ **2.11 — Codeium (función + refactorización + contraste)**  
+✔ **2.12 — Replit AI (microproyecto con IA)**  
+✔ **2.13 — Claude Code (análisis de repositorio + mejoras)**  
+✔ **2.14 — Devin AI (análisis conceptual)**  
+
+Cada carpeta contiene:
+
+- Notebook ejecutado  
+- Archivos del modelo / script  
+- Imágenes de evidencia  
+- README explicativo  
+- Conclusiones técnicas  
+- Archivos adicionales (PDF, datasets, códigos)
+
+Además, el repositorio incluye:
+
+### 📁 Estructura General  
+- `/huggingface/`  
+- `/notebooklm/`  
+- `/google_ai_studio/`  
+- `/kaggle/`  
+- `/perplexity/`  
+- `/papers_with_code/`  
+- `/replicate/`  
+- `/modelscope/`  
+- `/llamaindex/`  
+- `/copilot/`  
+- `/codeium/`  
+- `/replit/`  
+- `/claude/`  
+- `/devin/`  
+- `/integrador/`
+
+---
+
+Este repositorio cumple con los requisitos del laboratorio final:  
+documentación profesional, evidencias completas, análisis crítico y organización clara para evaluación.
 
 ---
 
