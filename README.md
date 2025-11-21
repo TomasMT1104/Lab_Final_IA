@@ -1,6 +1,6 @@
 # Laboratorio Final — Profundización I en Inteligencia Artificial  
 **Universidad de Manizales — Ingeniería de Sistemas y Telecomunicaciones**  
-**Estudiantes:** Tomás Marín Toro, Daniel Cortes Valencia, Valentina Arango Mendieta, Juan Esteban  
+**Estudiantes:** Tomás Marín Toro, Daniel Cortes Valencia, Valentina Arango Mendieta, Juan Esteban Marín
 **Curso:** Profundización I — Inteligencia Artificial  
 **Docente:** PhD. Carlos Betancourt Correa  
 
