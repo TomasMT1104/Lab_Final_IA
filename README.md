@@ -32,14 +32,14 @@ Lab_Final_IA
 
 ---
 
-# 📘 **Actividad 1 — Tabla Comparativa de Plataformas IA**
+#  **Actividad 1 — Tabla Comparativa de Plataformas IA**
 
 A continuación se presenta la tabla comparativa profesional solicitada en el criterio #1 de la rúbrica.  
 La tabla analiza las plataformas globales utilizadas en el laboratorio, destacando su descripción técnica, ventajas, limitaciones y escenarios de uso.
 
 ---
 
-# 🧠 Tabla Comparativa de Plataformas IA — Laboratorio Final
+#  Tabla Comparativa de Plataformas IA — Laboratorio Final
 
 | Plataforma | Descripción Técnica | Ventajas | Desventajas | Escenarios de Uso | Complejidad | Recomendación |
 |-----------|----------------------|----------|--------------|--------------------|--------------|----------------|
@@ -59,15 +59,11 @@ La tabla analiza las plataformas globales utilizadas en el laboratorio, destacan
 | **Devin AI (conceptual)** | Primer prototipo de “ingeniero autónomo” capaz de ejecutar pipelines y debugging. | Visión del futuro de la IA. | No listo para producción. | Análisis ético y de tendencias. | Alta | Úsalo solo para análisis conceptual. |
 
 ---
+## Actividad 5 — Kaggle (EDA)
 
-# 🧾 Actividades Incluidas en Este Repositorio (Mi Parte)
-
-| Actividad | Plataforma | Estado |
-|----------|------------|--------|
-| **1** | Tabla comparativa | ✔ Completada |
-| **5** | Kaggle — EDA + notebook | ⏳ Próxima a realizar |
-| **9** | Modelscope — Comparativa | ⏳ Próxima a realizar |
-| **13** | Replit — Microproyecto | ⏳ Próxima a realizar |
+- Notebook público: [ENLACE AQUÍ]
+- PDF del EDA: (archivo adjunto en /kaggle/)
+- Gráficas incluidas y análisis completo.
 
 ---
 
