@@ -104,17 +104,8 @@ La tabla analiza las plataformas globales utilizadas en el laboratorio, destacan
 | **Claude Code** | IA que actúa como ingeniero colaborador (documenta, revisa repos, genera módulos). | Excelente para repos grandes. | No ejecuta código dentro del entorno. | Documentación, análisis de repos, mejoras. | Media-Alta | Úsala para proyectos complejos y documentación. |
 | **Devin AI (conceptual)** | Primer prototipo de “ingeniero autónomo” capaz de ejecutar pipelines y debugging. | Visión del futuro de la IA. | No listo para producción. | Análisis ético y de tendencias. | Alta | Úsalo solo para análisis conceptual. |
 
----
-## Actividad 5 — Kaggle (EDA)
-
-- Notebook público: [ENLACE AQUÍ]
-- PDF del EDA: (archivo adjunto en /kaggle/)
-- Gráficas incluidas y análisis completo.
 
 ---
 
-# 📝 Créditos  
-**Estudiante responsable de este repositorio:** Tomás Marín Toro  
-**Curso:** Profundización I — Inteligencia Artificial  
-**Universidad de Manizales**
+
 
