@@ -104,6 +104,232 @@ La tabla analiza las plataformas globales utilizadas en el laboratorio, destacan
 | **Claude Code** | IA que actúa como ingeniero colaborador (documenta, revisa repos, genera módulos). | Excelente para repos grandes. | No ejecuta código dentro del entorno. | Documentación, análisis de repos, mejoras. | Media-Alta | Úsala para proyectos complejos y documentación. |
 | **Devin AI (conceptual)** | Primer prototipo de “ingeniero autónomo” capaz de ejecutar pipelines y debugging. | Visión del futuro de la IA. | No listo para producción. | Análisis ético y de tendencias. | Alta | Úsalo solo para análisis conceptual. |
 
+# 🧩 Actividades del Laboratorio — Sección 2 (Plataformas IA)
+
+Esta sección describe cada una de las actividades detalladas del PASO 2 del laboratorio, siguiendo el documento oficial del curso.  
+Cada actividad trabaja una plataforma, metodología o herramienta distinta, generando evidencias completas, análisis técnicos y entregables específicos.
+
+---
+
+## **2.1 — Hugging Face (Modelos y Datasets)**
+Exploración de modelos de NLP, visión y audio utilizando la librería Transformers y Spaces.
+
+**Desarrollo realizado:**
+- Se probaron 3 modelos distintos:
+  - NLP: Sentiment Analysis (DistilBERT)
+  - Visión: ResNet-50
+  - Audio: Whisper Tiny
+- Se ejecutó un modelo descargado en notebook.
+- Se creó un Space público usando Gradio.
+
+**Entregables:**
+- Notebook ejecutado.
+- Link del Space público.
+- Capturas de inferencias.
+- Análisis técnico del modelo (arquitectura, rendimiento, limitaciones).
+
+---
+
+## **2.2 — NotebookLM (Notebooks Inteligentes)**
+Asistente basado en documentos para análisis profundo de contenido técnico.
+
+**Desarrollo realizado:**
+- Carga de un documento técnico.
+- Generación de 5 preguntas argumentativas.
+- Elaboración de un resumen automatizado.
+- Evaluación de sesgos y consistencia en las respuestas.
+
+**Entregables:**
+- Capturas del notebook.
+- Exportación del resumen generado.
+- PDF con análisis crítico.
+
+---
+
+## **2.3 — Google AI Studio (Prompt Engineering)**
+Plataforma para crear agentes y ajustar prompts con modelos Gemini.
+
+**Desarrollo realizado:**
+- Creación de dos prompts:
+  - Uno técnico.
+  - Uno creativo.
+- Iteración con ajustes de temperatura, top-k y top-p.
+- Comparación de resultados y análisis del comportamiento del modelo.
+
+**Entregables:**
+- Capturas del proceso.
+- Archivo comparativo de iteraciones.
+- Reflexión técnica.
+
+---
+
+## **2.4 — Kaggle (EDA + Colaboración)**
+Exploración y análisis de datos usando notebooks ejecutables y datasets reales.
+
+**Desarrollo realizado:**
+- Selección del dataset “Student Mental Health”.
+- Limpieza, análisis estadístico y generación de visualizaciones.
+- Publicación del notebook en Kaggle.
+- Relación del dataset con un caso educativo.
+
+**Entregables:**
+- Notebook público de Kaggle.
+- PDF del EDA.
+- README en GitHub con explicación.
+
+---
+
+## **2.5 — Perplexity AI (Asistente de Investigación)**
+Motor de búsqueda con IA que proporciona fuentes verificables.
+
+**Desarrollo realizado:**
+- Consulta técnica compleja.
+- Validación manual de 5 fuentes proporcionadas.
+- Comparación de resultados con Google Scholar.
+
+**Entregables:**
+- Capturas de consulta.
+- Reporte de validación de fuentes.
+- Conclusiones escritas.
+
+---
+
+## **2.6 — Papers With Code**
+Relación entre literatura científica y código replicable.
+
+**Desarrollo realizado:**
+- Selección de un paper con código reproducible.
+- Ejecución parcial del experimento.
+- Comparación entre resultados obtenidos y los del paper.
+
+**Entregables:**
+- Notebook con ejecución.
+- Informe técnico de replicación.
+- Gráficas comparativas.
+
+---
+
+## **2.7 — Replicate (Modelos Generativos)**
+Ejecución de modelos de imagen, texto o voz mediante API.
+
+**Desarrollo realizado:**
+- Prueba de dos modelos generativos.
+- Construcción de un microservicio o script con la API de Replicate.
+- Evaluación de latencia y calidad del contenido generado.
+
+**Entregables:**
+- Evidencias de imágenes/textos generados.
+- Script documentado.
+- Carpeta `/replicate/` con el proyecto.
+
+---
+
+## **2.8 — Modelscope (Alibaba)**
+Repositorio alternativo con modelos optimizados para hardware ligero.
+
+**Desarrollo realizado:**
+- Ejecución de un modelo alternativo.
+- Comparación de rendimiento vs. Hugging Face.
+- Construcción de una gráfica comparativa.
+
+**Entregables:**
+- Notebook ejecutado.
+- Gráfica comparativa.
+- Análisis en Markdown.
+
+---
+
+## **2.9 — LLaMaIndex (RAG)**
+Framework especializado en creación de asistentes basados en documentos propios.
+
+**Desarrollo realizado:**
+- Creación de una base de conocimiento con 5 documentos académicos.
+- Pipeline completo RAG (ingestión + indexación + consulta).
+- Validación del grounding verificando si las respuestas provienen de los documentos.
+
+**Entregables:**
+- Notebook RAG ejecutado.
+- Capturas de consultas.
+- README técnico explicando arquitectura.
+
+---
+
+## **2.10 — GitHub Copilot (Asistente de Codificación)**
+Integración de IA en el flujo de programación.
+
+**Desarrollo realizado:**
+- Generación de módulos de código.
+- Refactorización y documentación automática.
+- Comparación entre versión manual y generada por IA.
+
+**Entregables:**
+- Capturas en el IDE.
+- Código documentado.
+- Comparación técnica.
+
+---
+
+## **2.11 — Codeium**
+Asistente gratuito para explicación y refactorización.
+
+**Desarrollo realizado:**
+- Generación de una función automática.
+- Solicitud de refactorización y explicación paso a paso.
+- Contraste con GitHub Copilot.
+
+**Entregables:**
+- Archivos de código.
+- Capturas del proceso.
+- Informe comparativo.
+
+---
+
+## **2.12 — Replit AI / Ghostwriter**
+Entorno en la nube para crear aplicaciones completas con IA.
+
+**Desarrollo realizado:**
+- Microproyecto creado con IA (API / script / web app).
+- Generación de archivos y rutas automáticamente.
+- Evaluación de la estructura generada.
+
+**Entregables:**
+- Proyecto ejecutable.
+- Carpeta `/replit/`.
+- Informe técnico.
+
+---
+
+## **2.13 — Claude Code (Anthropic)**
+IA que actúa como ingeniero de software colaborador.
+
+**Desarrollo realizado:**
+- Análisis completo de un repositorio subido.
+- Refactorización automática del código.
+- Generación de documentación.
+- Creación de un módulo adicional mediante IA.
+
+**Entregables:**
+- Capturas del chat con Claude.
+- Proyecto modificado.
+- Informe de mejoras.
+
+---
+
+## **2.14 — Devin AI (Tendencias Futuras)**
+Estudio conceptual del ingeniero autónomo.
+
+**Desarrollo realizado:**
+- Análisis crítico del concepto Devin AI.
+- Evaluación de riesgos, límites y futuro del rol del ingeniero.
+- Comparación con copilotos actuales.
+
+**Entregables:**
+- Ensayo técnico (1–2 páginas).
+- Cuadro comparativo.
+- Presentación breve.
+
+---
+
 
 ---
 
